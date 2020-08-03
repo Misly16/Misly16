@@ -10,6 +10,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Misly16/Misly16@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
