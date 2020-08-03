@@ -1,2 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/misly16/git-badges)](https://badges.pufler.dev)
 ![Profile](https://raw.githubusercontent.com/Misly16/Misly16/master/index.png)
+<br>
 [![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=misly16)](https://github.com/misly16)
+
