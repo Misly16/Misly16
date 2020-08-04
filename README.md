@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3186](https://github.com//timburgan/timburgan/issues/3186) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. 🗣 Commented on [#112](https://github.com//Sank6/Discord-Bot-List/issues/112) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
-3. 🎉 Merged PR [#1](https://github.com//Misly16/tcapi.js/pull/1) in [Misly16/tcapi.js](https://github.com//Misly16/tcapi.js)
-4. 🎉 Merged PR [#2](https://github.com//Misly16/tcapi.js/pull/2) in [Misly16/tcapi.js](https://github.com//Misly16/tcapi.js)
-5. 💪 Opened PR [#1](https://github.com//Misly16/tcapi.js/pull/1) in [Misly16/tcapi.js](https://github.com//Misly16/tcapi.js)
+1. 💪 Opened PR [#1](https://github.com//TopCord/TopCord-Issue-Tracker/pull/1) in [TopCord/TopCord-Issue-Tracker](https://github.com//TopCord/TopCord-Issue-Tracker)
+2. ❗️ Opened issue [#3186](https://github.com//timburgan/timburgan/issues/3186) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+3. 🗣 Commented on [#112](https://github.com//Sank6/Discord-Bot-List/issues/112) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
+4. 🎉 Merged PR [#1](https://github.com//Misly16/tcapi.js/pull/1) in [Misly16/tcapi.js](https://github.com//Misly16/tcapi.js)
+5. 🎉 Merged PR [#2](https://github.com//Misly16/tcapi.js/pull/2) in [Misly16/tcapi.js](https://github.com//Misly16/tcapi.js)
 <!--END_SECTION:activity-->
 
