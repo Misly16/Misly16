@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4455](https://github.com//js-org/js.org/pull/4455) in [js-org/js.org](https://github.com//js-org/js.org)
-2. 💪 Opened PR [#1](https://github.com//TopCord/TopCord-Issue-Tracker/pull/1) in [TopCord/TopCord-Issue-Tracker](https://github.com//TopCord/TopCord-Issue-Tracker)
-3. ❗️ Opened issue [#3186](https://github.com//timburgan/timburgan/issues/3186) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-4. 🗣 Commented on [#112](https://github.com//Sank6/Discord-Bot-List/issues/112) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
-5. 🎉 Merged PR [#1](https://github.com//Misly16/tcapi.js/pull/1) in [Misly16/tcapi.js](https://github.com//Misly16/tcapi.js)
+1. 💪 Opened PR [#1](https://github.com//Luvella/Kitto/pull/1) in [Luvella/Kitto](https://github.com//Luvella/Kitto)
+2. 💪 Opened PR [#4455](https://github.com//js-org/js.org/pull/4455) in [js-org/js.org](https://github.com//js-org/js.org)
+3. 💪 Opened PR [#1](https://github.com//TopCord/TopCord-Issue-Tracker/pull/1) in [TopCord/TopCord-Issue-Tracker](https://github.com//TopCord/TopCord-Issue-Tracker)
+4. ❗️ Opened issue [#3186](https://github.com//timburgan/timburgan/issues/3186) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+5. 🗣 Commented on [#112](https://github.com//Sank6/Discord-Bot-List/issues/112) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
 <!--END_SECTION:activity-->
 
