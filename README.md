@@ -9,9 +9,9 @@
 ## Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
-2. 🎉 Merged PR [#1](https://github.com//Misly16/ad-list/pull/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
-3. 🗣 Commented on [#1](https://github.com//Misly16/ad-list/issues/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
-4. 💪 Opened PR [#1](https://github.com//Luvella/Kitto/pull/1) in [Luvella/Kitto](https://github.com//Luvella/Kitto)
-5. 💪 Opened PR [#4455](https://github.com//js-org/js.org/pull/4455) in [js-org/js.org](https://github.com//js-org/js.org)
+2. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
+3. 🎉 Merged PR [#1](https://github.com//Misly16/ad-list/pull/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
+4. 🗣 Commented on [#1](https://github.com//Misly16/ad-list/issues/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
+5. 💪 Opened PR [#1](https://github.com//Luvella/Kitto/pull/1) in [Luvella/Kitto](https://github.com//Luvella/Kitto)
 <!--END_SECTION:activity-->
 
