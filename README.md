@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
+1. 💪 Opened PR [#1](https://github.com//Topcord/TopCord-Documentation/pull/1) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
 2. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
-3. 🎉 Merged PR [#1](https://github.com//Misly16/ad-list/pull/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
-4. 🗣 Commented on [#1](https://github.com//Misly16/ad-list/issues/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
-5. 💪 Opened PR [#1](https://github.com//Luvella/Kitto/pull/1) in [Luvella/Kitto](https://github.com//Luvella/Kitto)
+3. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
+4. 🎉 Merged PR [#1](https://github.com//Misly16/ad-list/pull/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
+5. 🗣 Commented on [#1](https://github.com//Misly16/ad-list/issues/1) in [Misly16/ad-list](https://github.com//Misly16/ad-list)
 <!--END_SECTION:activity-->
 
