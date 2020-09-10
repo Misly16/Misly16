@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//Topcord/TopCord-Documentation/pull/3) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
-2. 💪 Opened PR [#2](https://github.com//Topcord/TopCord-Documentation/pull/2) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
-3. 💪 Opened PR [#1](https://github.com//Topcord/TopCord-Documentation/pull/1) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
-4. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
+1. 💪 Opened PR [#4807](https://github.com//discordjs/discord.js/pull/4807) in [discordjs/discord.js](https://github.com//discordjs/discord.js)
+2. 💪 Opened PR [#3](https://github.com//Topcord/TopCord-Documentation/pull/3) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
+3. 💪 Opened PR [#2](https://github.com//Topcord/TopCord-Documentation/pull/2) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
+4. 💪 Opened PR [#1](https://github.com//Topcord/TopCord-Documentation/pull/1) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
 5. 🗣 Commented on [#67](https://github.com//Sank6/Discord-Bot-List/issues/67) in [Sank6/Discord-Bot-List](https://github.com//Sank6/Discord-Bot-List)
 <!--END_SECTION:activity-->
 
