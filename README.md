@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#493](https://github.com//caprover/caprover/issues/493) in [caprover/caprover](https://github.com//caprover/caprover)
-2. 💪 Opened PR [#4807](https://github.com//discordjs/discord.js/pull/4807) in [discordjs/discord.js](https://github.com//discordjs/discord.js)
-3. 💪 Opened PR [#3](https://github.com//Topcord/TopCord-Documentation/pull/3) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
-4. 💪 Opened PR [#2](https://github.com//Topcord/TopCord-Documentation/pull/2) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
-5. 💪 Opened PR [#1](https://github.com//Topcord/TopCord-Documentation/pull/1) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
+1. ❗️ Opened issue [#840](https://github.com//caprover/caprover/issues/840) in [caprover/caprover](https://github.com//caprover/caprover)
+2. 🗣 Commented on [#493](https://github.com//caprover/caprover/issues/493) in [caprover/caprover](https://github.com//caprover/caprover)
+3. 💪 Opened PR [#4807](https://github.com//discordjs/discord.js/pull/4807) in [discordjs/discord.js](https://github.com//discordjs/discord.js)
+4. 💪 Opened PR [#3](https://github.com//Topcord/TopCord-Documentation/pull/3) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
+5. 💪 Opened PR [#2](https://github.com//Topcord/TopCord-Documentation/pull/2) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
 <!--END_SECTION:activity-->
 
