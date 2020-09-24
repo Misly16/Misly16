@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//Misly16/mislee/issues/1) in [Misly16/mislee](https://github.com//Misly16/mislee)
-2. ❗️ Opened issue [#840](https://github.com//caprover/caprover/issues/840) in [caprover/caprover](https://github.com//caprover/caprover)
-3. 🗣 Commented on [#493](https://github.com//caprover/caprover/issues/493) in [caprover/caprover](https://github.com//caprover/caprover)
-4. 💪 Opened PR [#4807](https://github.com//discordjs/discord.js/pull/4807) in [discordjs/discord.js](https://github.com//discordjs/discord.js)
-5. 💪 Opened PR [#3](https://github.com//Topcord/TopCord-Documentation/pull/3) in [Topcord/TopCord-Documentation](https://github.com//Topcord/TopCord-Documentation)
+1. ❌ Closed PR [#4](https://github.com//Misly16/mislee/pull/4) in [Misly16/mislee](https://github.com//Misly16/mislee)
+2. ❌ Closed PR [#5](https://github.com//Misly16/mislee/pull/5) in [Misly16/mislee](https://github.com//Misly16/mislee)
+3. 💪 Opened PR [#4](https://github.com//Misly16/mislee/pull/4) in [Misly16/mislee](https://github.com//Misly16/mislee)
+4. ❌ Closed PR [#2](https://github.com//Misly16/mislee/pull/2) in [Misly16/mislee](https://github.com//Misly16/mislee)
+5. ❌ Closed PR [#3](https://github.com//Misly16/mislee/pull/3) in [Misly16/mislee](https://github.com//Misly16/mislee)
 <!--END_SECTION:activity-->
 
