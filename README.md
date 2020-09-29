@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/shubham49/react-pwa/issues/9) in [shubham49/react-pwa](https://github.com/shubham49/react-pwa)
+1. 🗣 Commented on [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
 2. 🗣 Commented on [#9](https://github.com/shubham49/react-pwa/issues/9) in [shubham49/react-pwa](https://github.com/shubham49/react-pwa)
 3. 🗣 Commented on [#9](https://github.com/shubham49/react-pwa/issues/9) in [shubham49/react-pwa](https://github.com/shubham49/react-pwa)
-4. 🗣 Commented on [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
-5. ❗️ Opened issue [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
+4. 🗣 Commented on [#9](https://github.com/shubham49/react-pwa/issues/9) in [shubham49/react-pwa](https://github.com/shubham49/react-pwa)
+5. 🗣 Commented on [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
 <!--END_SECTION:activity-->
 
