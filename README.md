@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Misly16/mislee/issues/13) in [Misly16/mislee](https://github.com/Misly16/mislee)
-2. 🗣 Commented on [#9](https://github.com/Misly16/mislee/issues/9) in [Misly16/mislee](https://github.com/Misly16/mislee)
-3. 🎉 Merged PR [#9](https://github.com/Misly16/mislee/pull/9) in [Misly16/mislee](https://github.com/Misly16/mislee)
-4. 🗣 Commented on [#7](https://github.com/Misly16/mislee/issues/7) in [Misly16/mislee](https://github.com/Misly16/mislee)
-5. 🗣 Commented on [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
+1. ❗️ Opened issue [#55](https://github.com/caprover/caprover-frontend/issues/55) in [caprover/caprover-frontend](https://github.com/caprover/caprover-frontend)
+2. 🗣 Commented on [#13](https://github.com/Misly16/mislee/issues/13) in [Misly16/mislee](https://github.com/Misly16/mislee)
+3. 🗣 Commented on [#9](https://github.com/Misly16/mislee/issues/9) in [Misly16/mislee](https://github.com/Misly16/mislee)
+4. 🎉 Merged PR [#9](https://github.com/Misly16/mislee/pull/9) in [Misly16/mislee](https://github.com/Misly16/mislee)
+5. 🗣 Commented on [#7](https://github.com/Misly16/mislee/issues/7) in [Misly16/mislee](https://github.com/Misly16/mislee)
 <!--END_SECTION:activity-->
 
