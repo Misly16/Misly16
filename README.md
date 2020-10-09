@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Misly16/mislee/pull/7) in [Misly16/mislee](https://github.com/Misly16/mislee)
-2. ❌ Closed PR [#8](https://github.com/Misly16/mislee/pull/8) in [Misly16/mislee](https://github.com/Misly16/mislee)
-3. 🗣 Commented on [#8](https://github.com/Misly16/mislee/issues/8) in [Misly16/mislee](https://github.com/Misly16/mislee)
-4. ❌ Closed PR [#13](https://github.com/Misly16/mislee/pull/13) in [Misly16/mislee](https://github.com/Misly16/mislee)
-5. 🗣 Commented on [#13](https://github.com/Misly16/mislee/issues/13) in [Misly16/mislee](https://github.com/Misly16/mislee)
+1. 🗣 Commented on [#7](https://github.com/Misly16/mislee/issues/7) in [Misly16/mislee](https://github.com/Misly16/mislee)
+2. 🎉 Merged PR [#7](https://github.com/Misly16/mislee/pull/7) in [Misly16/mislee](https://github.com/Misly16/mislee)
+3. ❌ Closed PR [#8](https://github.com/Misly16/mislee/pull/8) in [Misly16/mislee](https://github.com/Misly16/mislee)
+4. 🗣 Commented on [#8](https://github.com/Misly16/mislee/issues/8) in [Misly16/mislee](https://github.com/Misly16/mislee)
+5. ❌ Closed PR [#13](https://github.com/Misly16/mislee/pull/13) in [Misly16/mislee](https://github.com/Misly16/mislee)
 <!--END_SECTION:activity-->
 
