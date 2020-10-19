@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Misly16/mislee/pull/15) in [Misly16/mislee](https://github.com/Misly16/mislee)
-2. 🗣 Commented on [#15](https://github.com/Misly16/mislee/issues/15) in [Misly16/mislee](https://github.com/Misly16/mislee)
-3. ❌ Closed PR [#16](https://github.com/Misly16/mislee/pull/16) in [Misly16/mislee](https://github.com/Misly16/mislee)
-4. ❗️ Closed issue [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
-5. 🗣 Commented on [#7](https://github.com/Misly16/mislee/issues/7) in [Misly16/mislee](https://github.com/Misly16/mislee)
+1. ❗️ Opened issue [#165](https://github.com/EmilTholin/svelte-routing/issues/165) in [EmilTholin/svelte-routing](https://github.com/EmilTholin/svelte-routing)
+2. 🎉 Merged PR [#15](https://github.com/Misly16/mislee/pull/15) in [Misly16/mislee](https://github.com/Misly16/mislee)
+3. 🗣 Commented on [#15](https://github.com/Misly16/mislee/issues/15) in [Misly16/mislee](https://github.com/Misly16/mislee)
+4. ❌ Closed PR [#16](https://github.com/Misly16/mislee/pull/16) in [Misly16/mislee](https://github.com/Misly16/mislee)
+5. ❗️ Closed issue [#6](https://github.com/Misly16/mislee/issues/6) in [Misly16/mislee](https://github.com/Misly16/mislee)
 <!--END_SECTION:activity-->
 
