@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
-2. 🎉 Merged PR [#2](https://github.com/Misly16/electron-quick-start/pull/2) in [Misly16/electron-quick-start](https://github.com/Misly16/electron-quick-start)
-3. ❗️ Opened issue [#354](https://github.com/devicons/devicon/issues/354) in [devicons/devicon](https://github.com/devicons/devicon)
-4. ❗️ Closed issue [#165](https://github.com/EmilTholin/svelte-routing/issues/165) in [EmilTholin/svelte-routing](https://github.com/EmilTholin/svelte-routing)
-5. 🗣 Commented on [#165](https://github.com/EmilTholin/svelte-routing/issues/165) in [EmilTholin/svelte-routing](https://github.com/EmilTholin/svelte-routing)
+1. 🗣 Commented on [#41](https://github.com/RiversideRocks/web-riverside/issues/41) in [RiversideRocks/web-riverside](https://github.com/RiversideRocks/web-riverside)
+2. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
+3. 🎉 Merged PR [#2](https://github.com/Misly16/electron-quick-start/pull/2) in [Misly16/electron-quick-start](https://github.com/Misly16/electron-quick-start)
+4. ❗️ Opened issue [#354](https://github.com/devicons/devicon/issues/354) in [devicons/devicon](https://github.com/devicons/devicon)
+5. ❗️ Closed issue [#165](https://github.com/EmilTholin/svelte-routing/issues/165) in [EmilTholin/svelte-routing](https://github.com/EmilTholin/svelte-routing)
 <!--END_SECTION:activity-->
 
