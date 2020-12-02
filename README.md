@@ -2,7 +2,7 @@
 [![Profile](https://raw.githubusercontent.com/Misly16/Misly16/master/index.png)](https://github.com/misly16)
 <br>
 [![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=misly16&show_icons=true&theme=dracula)](https://github.com/misly16)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misly16&theme=dracula&layout=compact)](https://github.com/misly16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misly16&theme=dracula&layout=compact&langs_count=10)](https://github.com/misly16)
 <br>
 
 
