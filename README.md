@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ourcord/ourcord/pull/3) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-2. 🗣 Commented on [#41](https://github.com/RiversideRocks/web-riverside/issues/41) in [RiversideRocks/web-riverside](https://github.com/RiversideRocks/web-riverside)
-3. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
-4. 🎉 Merged PR [#2](https://github.com/Misly16/electron-quick-start/pull/2) in [Misly16/electron-quick-start](https://github.com/Misly16/electron-quick-start)
-5. ❗️ Opened issue [#354](https://github.com/devicons/devicon/issues/354) in [devicons/devicon](https://github.com/devicons/devicon)
+1. 💪 Opened PR [#5](https://github.com/ourcord/ourcord/pull/5) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. 🗣 Commented on [#4](https://github.com/ourcord/ourcord/issues/4) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+3. 🗣 Commented on [#4](https://github.com/ourcord/ourcord/issues/4) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+4. ❗️ Opened issue [#4](https://github.com/ourcord/ourcord/issues/4) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+5. 💪 Opened PR [#3](https://github.com/ourcord/ourcord/pull/3) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 <!--END_SECTION:activity-->
 
