@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/ourcord/ourcord/issues/15) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-2. 🗣 Commented on [#14](https://github.com/ourcord/ourcord/issues/14) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-3. ❌ Closed PR [#14](https://github.com/ourcord/ourcord/pull/14) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-4. 💪 Opened PR [#14](https://github.com/ourcord/ourcord/pull/14) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 💪 Opened PR [#1](https://github.com/ourcord/examples/pull/1) in [ourcord/examples](https://github.com/ourcord/examples)
+1. 🗣 Commented on [#19](https://github.com/ourcord/ourcord/issues/19) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. ❗️ Opened issue [#15](https://github.com/ourcord/ourcord/issues/15) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+3. 🗣 Commented on [#14](https://github.com/ourcord/ourcord/issues/14) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+4. ❌ Closed PR [#14](https://github.com/ourcord/ourcord/pull/14) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+5. 💪 Opened PR [#14](https://github.com/ourcord/ourcord/pull/14) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 <!--END_SECTION:activity-->
 
