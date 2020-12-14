@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ourcord/examples/pull/2) in [ourcord/examples](https://github.com/ourcord/examples)
-2. 🎉 Merged PR [#28](https://github.com/ourcord/ourcord/pull/28) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-3. 🗣 Commented on [#19](https://github.com/ourcord/ourcord/issues/19) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+1. 🗣 Commented on [#36](https://github.com/ourcord/ourcord/issues/36) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. 🎉 Merged PR [#2](https://github.com/ourcord/examples/pull/2) in [ourcord/examples](https://github.com/ourcord/examples)
+3. 🎉 Merged PR [#28](https://github.com/ourcord/ourcord/pull/28) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 4. 🗣 Commented on [#19](https://github.com/ourcord/ourcord/issues/19) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 🎉 Merged PR [#27](https://github.com/ourcord/ourcord/pull/27) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+5. 🗣 Commented on [#19](https://github.com/ourcord/ourcord/issues/19) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 <!--END_SECTION:activity-->
 
