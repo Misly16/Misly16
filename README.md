@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/ourcord/ourcord/pull/46) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-2. 💪 Opened PR [#5250](https://github.com/js-org/js.org/pull/5250) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🎉 Merged PR [#53](https://github.com/ourcord/ourcord/pull/53) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-4. 🗣 Commented on [#53](https://github.com/ourcord/ourcord/issues/53) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 🎉 Merged PR [#52](https://github.com/ourcord/ourcord/pull/52) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+1. 🗣 Commented on [#54](https://github.com/ourcord/ourcord/issues/54) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. 🗣 Commented on [#54](https://github.com/ourcord/ourcord/issues/54) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+3. 🗣 Commented on [#55](https://github.com/ourcord/ourcord/issues/55) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+4. ❌ Closed PR [#46](https://github.com/ourcord/ourcord/pull/46) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+5. 💪 Opened PR [#5250](https://github.com/js-org/js.org/pull/5250) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
