@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#170](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/170) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
-2. 🎉 Merged PR [#56](https://github.com/ourcord/ourcord/pull/56) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-3. 🎉 Merged PR [#50](https://github.com/ourcord/ourcord/pull/50) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-4. 🗣 Commented on [#54](https://github.com/ourcord/ourcord/issues/54) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 🗣 Commented on [#54](https://github.com/ourcord/ourcord/issues/54) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+1. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. ❗️ Closed issue [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+3. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+4. ❗️ Closed issue [#170](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/170) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+5. 🎉 Merged PR [#56](https://github.com/ourcord/ourcord/pull/56) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 <!--END_SECTION:activity-->
 
