@@ -8,10 +8,10 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Topcord/TopCord-Documentation/pull/6) in [Topcord/TopCord-Documentation](https://github.com/Topcord/TopCord-Documentation)
-2. 🎉 Merged PR [#5](https://github.com/Topcord/TopCord-Documentation/pull/5) in [Topcord/TopCord-Documentation](https://github.com/Topcord/TopCord-Documentation)
-3. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-4. ❗️ Closed issue [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+1. 🗣 Commented on [#569](https://github.com/top-gg/issues/issues/569) in [top-gg/issues](https://github.com/top-gg/issues)
+2. 🎉 Merged PR [#6](https://github.com/Topcord/TopCord-Documentation/pull/6) in [Topcord/TopCord-Documentation](https://github.com/Topcord/TopCord-Documentation)
+3. 🎉 Merged PR [#5](https://github.com/Topcord/TopCord-Documentation/pull/5) in [Topcord/TopCord-Documentation](https://github.com/Topcord/TopCord-Documentation)
+4. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+5. ❗️ Closed issue [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 <!--END_SECTION:activity-->
 
