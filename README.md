@@ -8,9 +8,9 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/matthewthechickenman/file-explorer/pull/1) in [matthewthechickenman/file-explorer](https://github.com/matthewthechickenman/file-explorer)
-2. 🗣 Commented on [#569](https://github.com/top-gg/issues/issues/569) in [top-gg/issues](https://github.com/top-gg/issues)
-3. 🎉 Merged PR [#5](https://github.com/Topcord/TopCord-Documentation/pull/5) in [Topcord/TopCord-Documentation](https://github.com/Topcord/TopCord-Documentation)
+1. 💪 Opened PR [#2](https://github.com/matthewthechickenman/file-explorer/pull/2) in [matthewthechickenman/file-explorer](https://github.com/matthewthechickenman/file-explorer)
+2. 💪 Opened PR [#1](https://github.com/matthewthechickenman/file-explorer/pull/1) in [matthewthechickenman/file-explorer](https://github.com/matthewthechickenman/file-explorer)
+3. 🗣 Commented on [#569](https://github.com/top-gg/issues/issues/569) in [top-gg/issues](https://github.com/top-gg/issues)
 4. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 5. ❗️ Closed issue [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 <!--END_SECTION:activity-->
