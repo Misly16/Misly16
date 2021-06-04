@@ -8,8 +8,8 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Faith1sGay/Tent/pull/11) in [Faith1sGay/Tent](https://github.com/Faith1sGay/Tent)
-2. ❗️ Closed issue [#1](https://github.com/Misly16/Misly16/issues/1) in [Misly16/Misly16](https://github.com/Misly16/Misly16)
+1. ❗️ Closed issue [#2](https://github.com/Misly16/Misly16/issues/2) in [Misly16/Misly16](https://github.com/Misly16/Misly16)
+2. ❗️ Opened issue [#2](https://github.com/Misly16/Misly16/issues/2) in [Misly16/Misly16](https://github.com/Misly16/Misly16)
 3. ❗️ Opened issue [#1](https://github.com/Misly16/Misly16/issues/1) in [Misly16/Misly16](https://github.com/Misly16/Misly16)
 4. 🗣 Commented on [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
 5. ❗️ Closed issue [#61](https://github.com/ourcord/ourcord/issues/61) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
