@@ -4,7 +4,4 @@
 [![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=misly16&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/misly16)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misly16&theme=dracula&layout=compact&langs_count=10&hide_border=true)](https://github.com/misly16)
 <br>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="misly" data-color="#BD5FFF" data-emoji="🍕"  data-font="Inter" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
-
 
